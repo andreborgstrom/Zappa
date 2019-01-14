@@ -1,5 +1,8 @@
 # Zappa Changelog
 
+## 0.47.2
+* Added support for multi-value query string parameters
+
 ## 0.47.1
 * Handle accounts with more than 100 domains in route 53
 * Force requests upgrade to 2.20.0 for compatibility with urllib3 1.24
